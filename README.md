@@ -3,9 +3,16 @@ A web-based Hospital Management System developed using **HTML**, **CSS**, **Boot
 
 ------------------
 ## Features
-**Patient registration and management
-Doctor management
-Appointment management
-Patient records management
-User-friendly web interface
-Server-side processing using Java Servlets
+
+* **Patient registration and management**
+
+* **Doctor management**
+
+* **Appointment management**
+
+* **Patient records management**
+
+* **User-friendly web interface**
+
+* **Server-side processing using Java Servlets**
+
